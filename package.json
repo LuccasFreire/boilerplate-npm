@@ -1,5 +1,4 @@
 {
-  "author": "Lucas Freire",
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
     "express": "^4.14.0"
@@ -11,5 +10,7 @@
   "repository": {
     "type": "git",
     "url": "https://idontknow/todo.git"
-  }
+  },
+  "author": "Lucas Freire",
+  "description": "My first project and this project does amazing things"
 }
