@@ -12,5 +12,14 @@
     "url": "https://idontknow/todo.git"
   },
   "author": "Lucas Freire",
-  "description": "My first project and this project does amazing things"
+  "description": "My first project and this project does amazing things",
+  "keywords": [
+    "games",
+    "news",
+    "site",
+    "gameplay",
+    "review",
+    "pc gaming",
+    "freecodecamp"
+  ]
 }
